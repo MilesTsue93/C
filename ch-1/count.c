@@ -15,7 +15,7 @@ int main()
         {
             putchar(c);
             if (c == EOF)   
-                exit(0);
+                return 0;
         }
     }
 }
