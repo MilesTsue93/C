@@ -2,7 +2,7 @@
 
 int power(int m, int n);
 
-// test custom poer function
+// test custom power function
 int main()
 {
     for (int i = 0; i < 10; ++i)
