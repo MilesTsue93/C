@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#define MAXLENGTH 1000      // four tab lengths long
+#define MAXLENGTH 1000
 
 void replacetabs(char *s);
 
